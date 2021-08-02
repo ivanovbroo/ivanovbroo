@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikita
 #### I am a beginner C++ developer
-![I am a beginner C++ developer](https://mark-borg.github.io/img/post-banners/hello-world.png)
+![I am a beginner C++ developer]
 
 My motivation for studying the IT field is microcontroller programming, writing computer programs for laboratory work, diploma, as well as programming - this is an integral industry for the use of solving certain problems.
 
